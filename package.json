@@ -1,0 +1,18 @@
+{
+  "name": "box-selection",
+  "version": "0.0.4",
+  "description": "Small library for making box selections on HTML elements in JavaScript",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["box", "selection"],
+  "author": {
+    "name": "Kevin Karsopawiro",
+    "email": "k.karsopawiro@gmail.com",
+    "url": "https://www.linkedin.com/in/afterburn/"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/afterburn/box-selection.git"
+  },
+  "license": "MIT"
+}
