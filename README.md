@@ -2,6 +2,7 @@
 ![](https://img.shields.io/npm/v/box-selection.svg) ![](https://img.shields.io/npm/dt/box-selection.svg)
 
 Small library for making box selections on HTML elements in JavaScript.
+![](https://raw.githubusercontent.com/afterburn/box-selection/master/box-selection.gif)
 
 #### Installation
 ```bash

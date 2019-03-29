@@ -1,6 +1,6 @@
 {
   "name": "box-selection",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Small library for making box selections on HTML elements in JavaScript",
   "main": "index.js",
   "scripts": {},
