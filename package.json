@@ -1,10 +1,10 @@
 {
   "name": "box-selection",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Small library for making box selections on HTML elements in JavaScript",
   "main": "index.js",
   "scripts": {},
-  "keywords": ["box", "selection"],
+  "keywords": ["html", "elements", "box", "selection"],
   "author": {
     "name": "Kevin Karsopawiro",
     "email": "k.karsopawiro@gmail.com",

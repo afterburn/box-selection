@@ -3,6 +3,7 @@
 
 Small JavaScript library for making box selections on HTML elements.
 Makes use of CSS transforms so there is no paint flashing.
+
 ![](https://raw.githubusercontent.com/afterburn/box-selection/master/box-selection.gif)
 
 #### Installation
